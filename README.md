@@ -63,10 +63,12 @@ Conta Corrente
 bash
 Copiar código
 git clone https://github.com/seu-usuario/banco-python.git
+
 2️⃣ Acesse o diretório
 bash
 Copiar código
 cd banco-python
+
 3️⃣ Execute o código
 bash
 Copiar código
