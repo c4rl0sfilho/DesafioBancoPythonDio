@@ -55,7 +55,6 @@ Permite criar usuários, abrir contas correntes, realizar depósitos, saques e c
     "numero_conta": 1,
     "usuario": <referência ao usuário>
 }
-
 ```
 💻 Como Executar o Projeto
 1️⃣ Clone o repositório
@@ -75,7 +74,7 @@ python banco.py
 
 ⚠️ Certifique-se de ter o Python 3.8+ instalado.
 
-##🧠 Conceitos Utilizados
+🧠 Conceitos Utilizados
 
 Funções positional-only, keyword-only e positional + keyword
 
