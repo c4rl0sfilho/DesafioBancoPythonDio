@@ -92,8 +92,8 @@ Este é um **projeto de aprendizagem** realizado no **Bootcamp Suzano da DIO (Di
 
 ---
 
-👨‍💻 Autor
-Carlos Eduardo
-📘 Estudante de Análise e Desenvolvimento de Sistemas
-💡 Apaixonado por tecnologia, automação e Python.
+## 👨‍💻 Autor
+#Carlos Eduardo
+#📘 Estudante de Análise e Desenvolvimento de Sistemas
+#💡 Apaixonado por tecnologia, automação e Python.
 
