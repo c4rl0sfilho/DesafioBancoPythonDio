@@ -57,20 +57,20 @@ Permite criar usuários, abrir contas correntes, realizar depósitos, saques e c
 }
 ```
 💻 Como Executar o Projeto
+
 1️⃣ Clone o repositório
-bash
-Copiar código
+```
 git clone https://github.com/seu-usuario/banco-python.git
+```
 
 2️⃣ Acesse o diretório
-bash
-Copiar código
+```
 cd banco-python
-
+```
 3️⃣ Execute o código
-bash
-Copiar código
+```
 python banco.py
+```
 
 ⚠️ Certifique-se de ter o Python 3.8+ instalado.
 
