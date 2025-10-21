@@ -48,8 +48,7 @@ Permite criar usuários, abrir contas correntes, realizar depósitos, saques e c
     "endereco": "Rua Exemplo, 123 - Centro - São Paulo/SP"
 }
 ```
-Conta Corrente
-
+###Conta Corrente
 ```python
 {
     "agencia": "0001",
@@ -76,7 +75,8 @@ python banco.py
 
 ⚠️ Certifique-se de ter o Python 3.8+ instalado.
 
-🧠 Conceitos Utilizados
+##🧠 Conceitos Utilizados
+
 Funções positional-only, keyword-only e positional + keyword
 
 Estruturas de dados com listas e dicionários
