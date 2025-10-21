@@ -73,6 +73,7 @@ cd banco-python
 bash
 Copiar código
 python banco.py
+
 ⚠️ Certifique-se de ter o Python 3.8+ instalado.
 
 🧠 Conceitos Utilizados
